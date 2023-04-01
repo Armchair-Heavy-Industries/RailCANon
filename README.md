@@ -18,6 +18,8 @@ A side effect of the 2.4's design is that all 4 extrusions that comprise the gan
 
 And that's exactly what we did. By floating a second rail underneath the X extrusion, we were able to run v+ over that second rail, while wiring V- to the existing MGN12 and extrusion. With some ~~jank as hell~~ ingenious and well-thought-out wiring between carriages and rails, etc, and some wire hiding, the 2CAN printer was born (in about 6 hours the day before April first).
 
+(and for anyone wondering about voltage drop, it was measured at about 0.5mV from the rear of the extrusion to the carriage of the lower rail)
+
 
 I think it goes without saying, but ***DO NOT DO THIS***. This printer has around 14A of live 24v flowing through completely unprotected rails and especially on the X rail, both V- and V+ are dangerously close to each other. 
 
