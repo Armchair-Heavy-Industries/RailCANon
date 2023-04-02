@@ -3,7 +3,7 @@
 ## Please don't do this.
 
 April fools!
-Sorry to burst your bubble, but 2CAN doesn't exist. (Well, not yet... stay tuned)
+Sorry to burst your bubble, but [2CAN](https://github.com/Armchair-Engineering/2CAN) doesn't exist. (Well, not yet... stay tuned)
 
 Instead, the [2CAN serial video](https://www.reddit.com/r/voroncorexy/comments/128ptla/look_ma_2_wires_24_serial_request_bwnance1508/) was done with something even stupider:
 
@@ -30,7 +30,7 @@ We did this *because* it was stupid, and it made us laugh our asses off. This "m
 Please enjoy these photos of the beautiful jank that was, for a brief time, RailCANon, and don't forget: *Commit Atrocity Everyday*.
 
 
-
+![](images/sparky.gif)
 
 ![](images/mainpic.jpg)
 
